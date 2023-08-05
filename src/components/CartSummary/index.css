@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.total-value {
+  display: flex;
+  flex-direction: column;
+  width: 23vw;
+  align-self: flex-end;
+}
+.order {
+  color: gray;
+  font-size: 25px;
+  font-weight: bold;
+  margin: 0px;
+}
+.items {
+  color: gray;
+}
+.price {
+  color: black;
+  font-size: 30px;
+  margin: 0px;
+  color: black;
+}
+.checkout-btn {
+  background-color: blue;
+  border-width: 0px;
+  color: white;
+  text-align: center;
+  border-style: solid;
+  border-radius: 5px;
+  height: 30px;
+}
